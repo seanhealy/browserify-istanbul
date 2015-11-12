@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/devongovett/browserify-istanbul",
   "dependencies": {
-    "istanbul": "~0.3.6",
+    "istanbul": "gotwarlost/istanbul#source-map",
     "minimatch": "^2.0.0",
     "through": "^2.3.4"
   },
